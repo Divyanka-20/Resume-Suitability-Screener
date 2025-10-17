@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+PyPDF2
+matplotlib
+numpy
+pandas
+regex
